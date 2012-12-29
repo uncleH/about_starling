@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:c5d36c1f892570899a55796cda4be09f$ -->
+<TextureAtlas imagePath="playGameAtlas.png">
+    <SubTexture name="arrowBtn" x="234" y="247" width="19" height="22" frameX="-1" frameY="-1" frameWidth="25" frameHeight="28"/>
+    <SubTexture name="autoModeSettingString" x="810" y="225" width="62" height="29" frameX="0" frameY="0" frameWidth="66" frameHeight="31"/>
+    <SubTexture name="beginString" x="176" y="193" width="63" height="27" frameX="0" frameY="0" frameWidth="67" frameHeight="31"/>
+    <SubTexture name="betMarkString" x="810" y="316" width="50" height="21"/>
+    <SubTexture name="betRateString" x="569" y="352" width="49" height="20"/>
+    <SubTexture name="bigRedBtn-01" x="872" y="239" width="134" height="102" frameX="-3" frameY="-3" frameWidth="146" frameHeight="112"/>
+    <SubTexture name="bigRedBtn-02" x="880" y="1" width="140" height="106" frameX="-1" frameY="-1" frameWidth="146" frameHeight="112"/>
+    <SubTexture name="bigRedBtn-03" x="880" y="107" width="134" height="102" frameX="-3" frameY="-3" frameWidth="146" frameHeight="112"/>
+    <SubTexture name="blueBtn-01" x="175" y="220" width="59" height="60" frameX="-1" frameY="-1" frameWidth="67" frameHeight="68"/>
+    <SubTexture name="blueBtn-02" x="810" y="254" width="61" height="62" frameX="0" frameY="0" frameWidth="67" frameHeight="68"/>
+    <SubTexture name="blueBtn-03" x="412" y="285" width="59" height="60" frameX="-1" frameY="-1" frameWidth="67" frameHeight="68"/>
+    <SubTexture name="bringPointString" x="487" y="1" width="206" height="44"/>
+    <SubTexture name="checkbox" x="855" y="204" width="21" height="21"/>
+    <SubTexture name="desk-01" x="192" y="595" width="92" height="142" frameX="-15" frameY="-20" frameWidth="128" frameHeight="182"/>
+    <SubTexture name="desk-02" x="501" y="417" width="110" height="168" frameX="-6" frameY="-4" frameWidth="128" frameHeight="182"/>
+    <SubTexture name="desk-03" x="347" y="573" width="92" height="142" frameX="-15" frameY="-20" frameWidth="128" frameHeight="182"/>
+    <SubTexture name="desk-04" x="611" y="470" width="92" height="142" frameX="-15" frameY="-20" frameWidth="128" frameHeight="182"/>
+    <SubTexture name="desk-05" x="708" y="434" width="92" height="142" frameX="-15" frameY="-20" frameWidth="128" frameHeight="182"/>
+    <SubTexture name="desklobbyString" x="268" y="33" width="191" height="50"/>
+    <SubTexture name="diamond" x="648" y="185" width="35" height="21" frameX="-1" frameY="-1" frameWidth="37" frameHeight="23"/>
+    <SubTexture name="disabledGreenBtn" x="380" y="411" width="121" height="50" frameX="0" frameY="0" frameWidth="125" frameHeight="54"/>
+    <SubTexture name="disalbedBlueBtn" x="810" y="337" width="49" height="50" frameX="0" frameY="0" frameWidth="53" frameHeight="54"/>
+    <SubTexture name="disalbedRedBtn" x="255" y="382" width="125" height="93" frameX="0" frameY="0" frameWidth="129" frameHeight="97"/>
+    <SubTexture name="faqIcon" x="234" y="220" width="19" height="27" frameX="0" frameY="0" frameWidth="23" frameHeight="31"/>
+    <SubTexture name="feverGameString" x="693" y="113" width="174" height="19" frameX="0" frameY="0" frameWidth="178" frameHeight="23"/>
+    <SubTexture name="flipLeftBtn" x="668" y="76" width="25" height="31" frameX="-7" frameY="-5" frameWidth="41" frameHeight="43"/>
+    <SubTexture name="flipRightBtn" x="668" y="45" width="25" height="31" frameX="-9" frameY="-5" frameWidth="41" frameHeight="43"/>
+    <SubTexture name="fullScreenIcon" x="604" y="293" width="26" height="25" frameX="0" frameY="0" frameWidth="30" frameHeight="29"/>
+    <SubTexture name="getScoreString" x="1" y="632" width="87" height="37" frameX="0" frameY="0" frameWidth="91" frameHeight="41"/>
+    <SubTexture name="goldenNumber-00" x="866" y="185" width="11" height="14"/>
+    <SubTexture name="goldenNumber-01" x="259" y="49" width="9" height="14" frameX="-1" frameY="0" frameWidth="11" frameHeight="14"/>
+    <SubTexture name="goldenNumber-02" x="855" y="174" width="11" height="14"/>
+    <SubTexture name="goldenNumber-03" x="866" y="171" width="11" height="14"/>
+    <SubTexture name="goldenNumber-04" x="855" y="160" width="11" height="14"/>
+    <SubTexture name="goldenNumber-05" x="866" y="157" width="11" height="14"/>
+    <SubTexture name="goldenNumber-06" x="855" y="146" width="11" height="14"/>
+    <SubTexture name="goldenNumber-07" x="866" y="143" width="11" height="14"/>
+    <SubTexture name="goldenNumber-08" x="855" y="132" width="11" height="14"/>
+    <SubTexture name="goldenNumber-09" x="867" y="129" width="11" height="14"/>
+    <SubTexture name="greenBtn-01" x="618" y="364" width="128" height="59" frameX="-3" frameY="-1" frameWidth="138" frameHeight="67"/>
+    <SubTexture name="greenBtn-02" x="255" y="321" width="134" height="61" frameX="0" frameY="0" frameWidth="138" frameHeight="67"/>
+    <SubTexture name="greenBtn-03" x="441" y="352" width="128" height="59" frameX="-3" frameY="-1" frameWidth="138" frameHeight="67"/>
+    <SubTexture name="header" x="452" y="127" width="34" height="42" frameX="-1" frameY="-1" frameWidth="36" frameHeight="44"/>
+    <SubTexture name="infoBorder-01" x="859" y="401" width="126" height="51"/>
+    <SubTexture name="infoBorder-02" x="876" y="209" width="145" height="30"/>
+    <SubTexture name="infoString" x="188" y="135" width="65" height="29" frameX="0" frameY="0" frameWidth="69" frameHeight="33"/>
+    <SubTexture name="jp" x="660" y="107" width="33" height="21"/>
+    <SubTexture name="jpBg" x="1" y="178" width="175" height="31" frameX="0" frameY="0" frameWidth="179" frameHeight="35"/>
+    <SubTexture name="jpString-02" x="1" y="563" width="98" height="24" frameX="0" frameY="0" frameWidth="102" frameHeight="28"/>
+    <SubTexture name="jpString" x="125" y="551" width="98" height="24" frameX="0" frameY="0" frameWidth="102" frameHeight="28"/>
+    <SubTexture name="line" x="94" y="620" width="92" height="9"/>
+    <SubTexture name="line2" x="259" y="83" width="182" height="4"/>
+    <SubTexture name="logo" x="471" y="293" width="133" height="59" frameX="-4" frameY="-3" frameWidth="147" frameHeight="73"/>
+    <SubTexture name="longGreenBtn-01" x="486" y="107" width="174" height="60" frameX="-5" frameY="-1" frameWidth="188" frameHeight="68"/>
+    <SubTexture name="longGreenBtn-02" x="486" y="45" width="182" height="62" frameX="-1" frameY="0" frameWidth="188" frameHeight="68"/>
+    <SubTexture name="longGreenBtn-03" x="1" y="209" width="174" height="60" frameX="-5" frameY="-1" frameWidth="188" frameHeight="68"/>
+    <SubTexture name="maxbetString" x="746" y="406" width="112" height="28" frameX="0" frameY="0" frameWidth="116" frameHeight="32"/>
+    <SubTexture name="minus" x="459" y="60" width="27" height="6"/>
+    <SubTexture name="moreGameBtn-01" x="693" y="1" width="187" height="112" frameX="-1" frameY="0" frameWidth="193" frameHeight="118"/>
+    <SubTexture name="moreGameBtn-02" x="1" y="49" width="187" height="112" frameX="-1" frameY="0" frameWidth="193" frameHeight="118"/>
+    <SubTexture name="moreGameBtn-03" x="259" y="87" width="181" height="108" frameX="-4" frameY="-3" frameWidth="193" frameHeight="118"/>
+    <SubTexture name="mySavedString" x="389" y="345" width="52" height="16"/>
+    <SubTexture name="otherSavedString" x="188" y="49" width="71" height="39"/>
+    <SubTexture name="peilvString" x="268" y="1" width="219" height="32"/>
+    <SubTexture name="pic-00" x="380" y="461" width="102" height="112" frameX="-33" frameY="-9" frameWidth="174" frameHeight="134"/>
+    <SubTexture name="pic-01" x="153" y="280" width="102" height="112" frameX="-33" frameY="-9" frameWidth="174" frameHeight="134"/>
+    <SubTexture name="pic-02" x="486" y="167" width="162" height="126" frameX="-4" frameY="-2" frameWidth="174" frameHeight="134"/>
+    <SubTexture name="pic-03" x="648" y="206" width="162" height="98" frameX="-4" frameY="-15" frameWidth="174" frameHeight="134"/>
+    <SubTexture name="pic-04" x="689" y="132" width="166" height="74" frameX="-2" frameY="-28" frameWidth="174" frameHeight="134"/>
+    <SubTexture name="pic-05" x="135" y="392" width="114" height="124" frameX="-28" frameY="-2" frameWidth="174" frameHeight="134"/>
+    <SubTexture name="pic-06" x="256" y="195" width="156" height="126" frameX="-7" frameY="-2" frameWidth="174" frameHeight="134"/>
+    <SubTexture name="pic-07" x="1" y="269" width="152" height="106" frameX="-9" frameY="-12" frameWidth="174" frameHeight="134"/>
+    <SubTexture name="pic-08" x="249" y="475" width="98" height="120" frameX="-36" frameY="-5" frameWidth="174" frameHeight="134"/>
+    <SubTexture name="pic-09" x="1" y="437" width="124" height="126" frameX="-23" frameY="-2" frameWidth="174" frameHeight="134"/>
+    <SubTexture name="plItemBg" x="1" y="161" width="180" height="17"/>
+    <SubTexture name="plus" x="459" y="33" width="27" height="27"/>
+    <SubTexture name="pointsIcon" x="569" y="372" width="47" height="41" frameX="-1" frameY="0" frameWidth="49" frameHeight="43"/>
+    <SubTexture name="quitIcon" x="660" y="157" width="26" height="28" frameX="0" frameY="0" frameWidth="30" frameHeight="32"/>
+    <SubTexture name="rect" x="453" y="94" width="33" height="33"/>
+    <SubTexture name="red2Btn-01" x="1" y="587" width="93" height="45" frameX="-3" frameY="-2" frameWidth="103" frameHeight="53"/>
+    <SubTexture name="red2Btn-02" x="611" y="423" width="97" height="47" frameX="-1" frameY="-1" frameWidth="103" frameHeight="53"/>
+    <SubTexture name="red2Btn-03" x="99" y="575" width="93" height="45" frameX="-3" frameY="-2" frameWidth="103" frameHeight="53"/>
+    <SubTexture name="redBtn-01" x="859" y="341" width="130" height="60" frameX="-3" frameY="-1" frameWidth="144" frameHeight="72"/>
+    <SubTexture name="redBtn-02" x="1" y="375" width="134" height="62" frameX="-1" frameY="0" frameWidth="144" frameHeight="72"/>
+    <SubTexture name="redBtn-03" x="630" y="304" width="130" height="60" frameX="-3" frameY="-1" frameWidth="144" frameHeight="72"/>
+    <SubTexture name="returnIcon" x="459" y="66" width="26" height="28" frameX="0" frameY="-1" frameWidth="30" frameHeight="34"/>
+    <SubTexture name="room" x="125" y="516" width="98" height="35" frameX="-1" frameY="-1" frameWidth="100" frameHeight="37"/>
+    <SubTexture name="saveIcon" x="660" y="128" width="29" height="29" frameX="0" frameY="0" frameWidth="33" frameHeight="33"/>
+    <SubTexture name="scoreString" x="389" y="361" width="49" height="21"/>
+    <SubTexture name="scrollLine" x="501" y="413" width="114" height="4"/>
+    <SubTexture name="selectedIco" x="452" y="169" width="26" height="26" frameX="-1" frameY="-1" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="settingString" x="181" y="164" width="63" height="29" frameX="0" frameY="0" frameWidth="67" frameHeight="31"/>
+    <SubTexture name="shortGreenBtn-01" x="412" y="240" width="61" height="45" frameX="-3" frameY="-2" frameWidth="71" frameHeight="53"/>
+    <SubTexture name="shortGreenBtn-02" x="188" y="88" width="65" height="47" frameX="0" frameY="-1" frameWidth="71" frameHeight="53"/>
+    <SubTexture name="shortGreenBtn-03" x="412" y="195" width="61" height="45" frameX="-3" frameY="-2" frameWidth="71" frameHeight="53"/>
+    <SubTexture name="sound" x="746" y="387" width="113" height="19"/>
+    <SubTexture name="soundbtn" x="760" y="304" width="50" height="43" frameX="-2" frameY="-1" frameWidth="58" frameHeight="49"/>
+    <SubTexture name="stopString" x="94" y="629" width="87" height="37" frameX="0" frameY="0" frameWidth="91" frameHeight="41"/>
+    <SubTexture name="totalMarkString" x="760" y="347" width="49" height="21"/>
+    <SubTexture name="whiteSpace" x="1" y="1" width="267" height="48"/>
+    <SubTexture name="yellowNumber-00" x="867" y="113" width="12" height="16"/>
+    <SubTexture name="yellowNumber-01" x="855" y="188" width="10" height="16" frameX="-1" frameY="0" frameWidth="12" frameHeight="16"/>
+    <SubTexture name="yellowNumber-02" x="440" y="163" width="12" height="16"/>
+    <SubTexture name="yellowNumber-03" x="440" y="147" width="12" height="16"/>
+    <SubTexture name="yellowNumber-04" x="440" y="131" width="12" height="16"/>
+    <SubTexture name="yellowNumber-05" x="244" y="180" width="12" height="16"/>
+    <SubTexture name="yellowNumber-06" x="244" y="164" width="12" height="16"/>
+    <SubTexture name="yellowNumber-07" x="440" y="115" width="12" height="16"/>
+    <SubTexture name="yellowNumber-08" x="440" y="99" width="12" height="16"/>
+    <SubTexture name="yellowNumber-09" x="441" y="83" width="12" height="16"/>
+</TextureAtlas>
